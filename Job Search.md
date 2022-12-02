@@ -1,7 +1,7 @@
 ## Glass Door
 
-* [Glass Door - Security Engineer](https://www.glassdoor.ie/Job/dublin-security-engineer-jobs-SRCH_IL.0,6_IC2739035_KO7,24.htm?fromAge=3&radius=100)
-* [Glass Door - Information Security Analyst](https://www.glassdoor.ie/Job/dublin-information-security-analyst-jobs-SRCH_IL.0,6_IC2739035_KO7,35.htm?fromAge=3&radius=0&cityId=2739035)
+* [Security Engineer](https://www.glassdoor.ie/Job/dublin-security-engineer-jobs-SRCH_IL.0,6_IC2739035_KO7,24.htm?fromAge=3&radius=100)
+* [Information Security Analyst](https://www.glassdoor.ie/Job/dublin-information-security-analyst-jobs-SRCH_IL.0,6_IC2739035_KO7,35.htm?fromAge=3&radius=0&cityId=2739035)
 * [Cyber](https://www.glassdoor.ie/Job/dublin-cyber-jobs-SRCH_IL.0,6_IC2739035_KO7,12.htm?fromAge=3)
 
 ## Jobs.ie
@@ -11,8 +11,8 @@
 
 ## LinkedIn
 
-* [LinkedIn - Cyber](https://www.linkedin.com/jobs/search/?currentJobId=3369848431&f_TPR=r604800&geoId=103810046&keywords=cybersecurity&location=Dublin%2C%20Ireland)
-* [LinkedIn - Information Security](https://www.linkedin.com/jobs/search/?geoId=103810046&keywords=information%20security&location=Dublin%2C%20Ireland)
+* [Cyber](https://www.linkedin.com/jobs/search/?currentJobId=3369848431&f_TPR=r604800&geoId=103810046&keywords=cybersecurity&location=Dublin%2C%20Ireland)
+* [Information Security](https://www.linkedin.com/jobs/search/?geoId=103810046&keywords=information%20security&location=Dublin%2C%20Ireland)
     * [Cybersecurity](https://www.linkedin.com/jobs/search/?geoId=104738515&keywords=cybersecurity&location=Ireland)
 * [Security Engineer](https://www.linkedin.com/jobs/search/?currentJobId=3281728200&f_TPR=r604800&geoId=103810046&keywords=Security%20engineer&location=County%20Dublin%2C%20Ireland&refresh=true)
 
