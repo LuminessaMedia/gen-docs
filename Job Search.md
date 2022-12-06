@@ -4,6 +4,11 @@
 * [Information Security Analyst](https://www.glassdoor.ie/Job/dublin-information-security-analyst-jobs-SRCH_IL.0,6_IC2739035_KO7,35.htm?fromAge=3&radius=0&cityId=2739035)
 * [Cyber](https://www.glassdoor.ie/Job/dublin-cyber-jobs-SRCH_IL.0,6_IC2739035_KO7,12.htm?fromAge=3)
 
+## Irish Jobs
+
+* [Security](https://www.irishjobs.ie/ShowResults.aspx?Keywords=security&autosuggestEndpoint=/autosuggest&Location=102&Category=3&Recruiter=Company&btnSubmit=Search&PerPage=100&SortBy=MostRecent)
+* [Cyber](https://www.irishjobs.ie/ShowResults.aspx?Keywords=Cyber&autosuggestEndpoint=/autosuggest&Location=102&Category=3&Recruiter=Company&btnSubmit=Search&SortBy=MostRecent)
+
 ## Jobs.ie
 
 * [Security Engineer](https://www.jobs.ie/Jobs.aspx?Categories=4&Keywords=Security+Engineer&RecruiterType=employerse)
@@ -33,6 +38,9 @@
 * [General IT Search](https://publicjobs.ie/en/job-search?category=19&county=&searchphrase=)
 
 ## Jobs Found
+
+* https://www.irishjobs.ie/Jobs/IT-Security-Risk-Analyst-8891142.aspx
+* https://www.irishjobs.ie/Jobs/Senior-Security-Engineer-8891159.aspx
 
 ## Jobs Rejected
 
