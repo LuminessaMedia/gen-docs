@@ -40,10 +40,10 @@
 ## Jobs Found
 
 * https://www.irishjobs.ie/Jobs/IT-Security-Risk-Analyst-8891142.aspx
-* https://www.irishjobs.ie/Jobs/Senior-Security-Engineer-8891159.aspx
+* 
 
 ## Jobs Rejected
-
+* [Zurich](https://www.irishjobs.ie/Jobs/Senior-Security-Engineer-8891159.aspx)
  * [EirGrid](https://www.glassdoor.ie/job-listing/cyber-security-specialists-eirgrid-group-JV_IC2739035_KO0,26_KE27,40.htm?jl=1008286415445&pos=104&ao=1136043&s=58&guid=00000184826ff113891273f789655f8d&src=GD_JOB_AD&t=SR&vt=w&uido=75B538E4012E57A675458D7DAD3316FE&cs=1_54633306&cb=1668635685405&jobListingId=1008286415445&jrtk=3-0-1gi16vsac2hin001-1gi16vsb8i9hf800-a0c85255542eb744-&ctt=1668636199427)
  * Central bank
  * [Group On](https://www.linkedin.com/jobs/view/3315367610/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=ACTIVELY_HIRING_COMPANY&refId=NPcxg5P7P90UGSQspBv5nQ%3D%3D&trackingId=QevFQpYS2Yfm2EbzMqOqgA%3D%3D&trk=flagship3_search_srp_jobs)
