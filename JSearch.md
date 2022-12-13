@@ -13,10 +13,10 @@
 ## LinkedIn
 
 * [Cybersecurity (-7)](https://www.linkedin.com/jobs/search/?geoId=104738515&keywords=cybersecurity&location=Ireland)
-* [Cybersecurity (-7) - Contract](https://www.linkedin.com/jobs/search/?currentJobId=3366858275&f_JT=C%2CT&geoId=104738515&keywords=cybersecurity&location=Ireland)
 * [Cybersecurity (-1)](https://www.linkedin.com/jobs/search/?currentJobId=3386235123&f_TPR=r86400&geoId=103810046&keywords=cybersecurity&location=Dublin%2C%20Ireland)
+* [Cybersecurity (-7) - Contract](https://www.linkedin.com/jobs/search/?currentJobId=3366858275&f_JT=C%2CT&geoId=104738515&keywords=cybersecurity&location=Ireland)
 * [Security Engineer (-7)](https://www.linkedin.com/jobs/search/?currentJobId=3281728200&f_TPR=r604800&geoId=103810046&keywords=Security%20engineer&location=County%20Dublin%2C%20Ireland&refresh=true)
-* [Security Engineer (-7)](https://www.linkedin.com/jobs/search/?currentJobId=3393282392&f_TPR=r86400&geoId=103810046&keywords=Security%20engineer&location=County%20Dublin%2C%20Ireland&refresh=true)
+* [Security Engineer (-1)](https://www.linkedin.com/jobs/search/?currentJobId=3393282392&f_TPR=r86400&geoId=103810046&keywords=Security%20engineer&location=County%20Dublin%2C%20Ireland&refresh=true)
 
 
 ## Irish Jobs
