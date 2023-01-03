@@ -1,6 +1,7 @@
 ## Glass Door
 
 * [Security Engineer (-3)](https://www.glassdoor.ie/Job/dublin-security-engineer-jobs-SRCH_IL.0,6_IC2739035_KO7,24.htm?fromAge=3&radius=100)
+* [Security Engineer (-7)](https://www.glassdoor.ie/Job/dublin-security-engineer-jobs-SRCH_IL.0,6_IC2739035_KO7,24.htm?fromAge=7&radius=100)
 * [Security Engineer (-1)](https://www.glassdoor.ie/Job/dublin-security-engineer-jobs-SRCH_IL.0,6_IC2739035_KO7,24.htm?fromAge=1&radius=100)
 * [Security Engineer - Contract (-7)](https://www.glassdoor.ie/Job/dublin-security-engineer-jobs-SRCH_IL.0,6_IC2739035_KO7,24.htm?jobType=temporary&fromAge=1&radius=100)
 * [Information Security Analyst (-3)](https://www.glassdoor.ie/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword=%22information+security+analyst%22&typedLocation=Dublin&locT=C&locId=2739035&jobType=&context=Jobs&sc.keyword=%22information+security+analyst%22&dropdown=0)
@@ -52,7 +53,9 @@
 
 ## Jobs Found
 
-* 
+* [Booking Holdings](https://www.glassdoor.ie/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword=%22information+security+analyst%22&typedLocation=Dublin&locT=C&locId=2739035&jobType=&context=Jobs&sc.keyword=%22information+security+analyst%22&dropdown=0)
+* https://www.glassdoor.ie/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword=%22information+security+analyst%22&typedLocation=Dublin&locT=C&locId=2739035&jobType=&context=Jobs&sc.keyword=%22information+security+analyst%22&dropdown=0
+* [Data engineer](https://www.irishjobs.ie/Jobs/Cloud-Data-Engineer-Cyber-Data-8894516.aspx)
 
 ## Jobs Rejected
 * [Zurich](https://www.irishjobs.ie/Jobs/Senior-Security-Engineer-8891159.aspx)

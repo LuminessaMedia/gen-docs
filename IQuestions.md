@@ -1,18 +1,42 @@
 ## IQuestions
 
 * Office location
+    * Team location
+* Team size
 * OnCall
 	* Do you get paid for it?
-* Team size
+* WFH
+* Tech stack
+* What ticketing system do you use?
+* How do you engage system owners?
 * Documentation?
-* Reporting chain
 * What is your work intake process?
 	* Ticketing system?
 * How do you engage other teams?
-* Teams in other timezones?
-* What ticketing system do you use?
-* How do you engage system owners?
+* Teams in other time zones?
+* Reporting chain?
 
 ## Job Specific Questions
 
 * `Regularly and promptly carry out the ticket management tasks.`
+
+## Links
+
+* https://www.irishjobs.ie/Jobs/IT-Security-Risk-Analyst-8891142.aspx
+
+## Amazon
+
+* Mark Craven
+* Lokesh Kumar
+* Gary Carney
+
+## Misc
+
+* Center for Internet Security (CIS)
+
+## Projects
+
+* Automation Script
+* Auditing security controls
+* Documenting security reviews
+* Various securiyt reviews

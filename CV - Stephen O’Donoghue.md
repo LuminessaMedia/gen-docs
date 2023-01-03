@@ -9,9 +9,10 @@
 ## Work Experience
 
 ### Information Security Engineer
-**Informatica Ireland EMEA UC**, 1 Windmill Ln, SOBO district, Dublin, D02 F206, Ireland. **Web**: [informatica.com](https://www.informatica.com/), **Date:** February 2021 - present.
+**Informatica Ireland EMEA UC**, 1 Windmill Lane, SOBO district, Dublin, D02 F206, Ireland. **Web**: [informatica.com](https://www.informatica.com/), **Date:** February 2021 - present.
 
 #### Main Duties:
+
 * Conducting security reviews and risk assessments of critical systems on premises and cloud environment to ensure compliance with security best practices and regulatory/privacy obligations.
 * Participating in on call duties to conduct investigations and respond to security incidents.
 * Reviewing infrastructure change requests to ensure compliance with security policies.
@@ -25,6 +26,7 @@
 **Amazon Data Services Ireland Ltd**, One Burlington Plaza, Burlington Road, Dublin 4, Ireland. **Web**: [amazon.com/Go](http://www.amazon.com/Go), **Date:** March 2020 - February 2021.
 
 #### Main Duties:
+
 * Providing frontline response to security incidents affecting the World Wide Consumer organization of Amazon as part a 24/7/365 Security Operation Center (SOC) environment.
 * Performing security reviews to identify security issues and risks, and develop mitigation plans.
 * Advising and consulting with internal customers on risk assessment, threat modeling, code review, and vulnerability remediation.
