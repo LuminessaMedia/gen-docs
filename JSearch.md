@@ -10,6 +10,7 @@
 * [Cyber (-1)](https://www.glassdoor.ie/Job/dublin-cyber-jobs-SRCH_IL.0,6_IC2739035_KO7,12.htm?fromAge=1)
 * [Cybersecurity (-3)](https://www.glassdoor.ie/Job/dublin-cybersecurity-jobs-SRCH_IL.0,6_IC2739035_KO7,20.htm?fromAge=3)
 * [Cybersecurity - Contract (-1)](https://www.glassdoor.ie/Job/dublin-cybersecurity-jobs-SRCH_IL.0,6_IC2739035_KO7,20.htm?jobType=contract)
+* [Cloud Security Engineer (-3)](https://www.glassdoor.ie/Job/dublin-cloud-security-engineer-jobs-SRCH_IL.0,6_IC2739035_KO7,30.htm?fromAge=3)
 
 ## LinkedIn
 
@@ -51,20 +52,7 @@
 
 * [General IT Search](https://publicjobs.ie/en/job-search?category=19&county=&searchphrase=)
 
-## Jobs Found
+## Indeed
 
-* [Booking Holdings](https://www.glassdoor.ie/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword=%22information+security+analyst%22&typedLocation=Dublin&locT=C&locId=2739035&jobType=&context=Jobs&sc.keyword=%22information+security+analyst%22&dropdown=0)
-* https://www.glassdoor.ie/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword=%22information+security+analyst%22&typedLocation=Dublin&locT=C&locId=2739035&jobType=&context=Jobs&sc.keyword=%22information+security+analyst%22&dropdown=0
-* [Data engineer](https://www.irishjobs.ie/Jobs/Cloud-Data-Engineer-Cyber-Data-8894516.aspx)
-
-## Jobs Rejected
-* [Zurich](https://www.irishjobs.ie/Jobs/Senior-Security-Engineer-8891159.aspx)
-* [EirGrid](https://www.glassdoor.ie/job-listing/cyber-security-specialists-eirgrid-group-JV_IC2739035_KO0,26_KE27,40.htm?jl=1008286415445&pos=104&ao=1136043&s=58&guid=00000184826ff113891273f789655f8d&src=GD_JOB_AD&t=SR&vt=w&uido=75B538E4012E57A675458D7DAD3316FE&cs=1_54633306&cb=1668635685405&jobListingId=1008286415445&jrtk=3-0-1gi16vsac2hin001-1gi16vsb8i9hf800-a0c85255542eb744-&ctt=1668636199427)
-* Central bank
-* [Group On](https://www.linkedin.com/jobs/view/3315367610/?eBP=JOB_SEARCH_ORGANIC&recommendedFlavor=ACTIVELY_HIRING_COMPANY&refId=NPcxg5P7P90UGSQspBv5nQ%3D%3D&trackingId=QevFQpYS2Yfm2EbzMqOqgA%3D%3D&trk=flagship3_search_srp_jobs)
-* [Udemy](https://www.linkedin.com/jobs/view/3305495369/?eBP=NotAvailableFromMidTier&recommendedFlavor=ACTIVELY_HIRING_COMPANY&refId=TeT%2B75rWQlex0QR6Q5FMpg%3D%3D&trackingId=EabIoczJrVr2hlCsowiUZA%3D%3D&trk=flagship3_search_srp_jobs)
-
-## Jobs Applied for
-
-* [Trulioo](https://www.glassdoor.ie/job-listing/information-security-analyst-trulioo-JV_IC2739035_KO0,28_KE29,36.htm?jl=1008332085843&pos=102&ao=1136043&s=58&guid=00000184ec0c59de99db3d93b3890960&src=GD_JOB_AD&t=SR&vt=w&uido=75B538E4012E57A675458D7DAD3316FE&ea=1&cs=1_0853297e&cb=1670407543552&jobListingId=1008332085843&jrtk=3-0-1gjm0omk3mbh6801-1gjm0omkr2hit000-db2cc7ec6c84cb6f-&ctt=1670407549201) 
-* [Dunnes Stores](https://www.irishjobs.ie/Jobs/IT-Security-Risk-Analyst-8891142.aspx)
+* [Security Engineer (-3)](https://ie.indeed.com/jobs?q=security+engineer&l=Dublin%2C+County+Dublin&sc=0bf%3Aexrec%28%29%2Ckf%3Aattr%28HFDVW%29%3B&fromage=3&vjk=9798772b47cc98aa)
+* [Cyber Security (-3)](https://ie.indeed.com/jobs?q=cyber+security&l=Dublin%2C+County+Dublin&fromage=3&vjk=3d7581885351a9ec)
