@@ -15,6 +15,9 @@
 * How do you engage other teams?
 * Teams in other time zones?
 * Reporting chain?
+* Promotions
+* How big will the team be?
+* Where is the managed SOC based?
 
 ## Job Specific Questions
 
@@ -23,12 +26,6 @@
 ## Links
 
 * https://www.irishjobs.ie/Jobs/IT-Security-Risk-Analyst-8891142.aspx
-
-## Amazon
-
-* Mark Craven
-* Lokesh Kumar
-* Gary Carney
 
 ## Misc
 
@@ -39,4 +36,4 @@
 * Automation Script
 * Auditing security controls
 * Documenting security reviews
-* Various securiyt reviews
+* Various security reviews
