@@ -16,7 +16,6 @@
 * [FBD](https://www.glassdoor.ie/Job/dublin-cyber-jobs-SRCH_IL.0,6_IC2739035_KO7,12.htm?fromAge=14)
     * IR
 * [RealiaQuest](https://ie.indeed.com/viewjob?jk=ee2a84edd7fb98d6&tk=1glu2u24ai92t800&from=serp&vjs=3) 
-* Kurt Geiger 
 
 ## Applied For
 
