@@ -20,6 +20,7 @@
 * [Cybersecurity (-7) - Contract](https://www.linkedin.com/jobs/search/?currentJobId=3366858275&f_JT=C%2CT&geoId=104738515&keywords=cybersecurity&location=Ireland)
 * [Security Engineer (-7)](https://www.linkedin.com/jobs/search/?currentJobId=3281728200&f_TPR=r604800&geoId=103810046&keywords=Security%20engineer&location=County%20Dublin%2C%20Ireland&refresh=true)
 * [Security Engineer (-1)](https://www.linkedin.com/jobs/search/?currentJobId=3393282392&f_TPR=r86400&geoId=103810046&keywords=Security%20engineer&location=County%20Dublin%2C%20Ireland&refresh=true)
+* [Information Security Analyst (-1)](https://www.linkedin.com/jobs/search/?currentJobId=3432955922&f_TPR=r86400&geoId=103810046&keywords=Information%20Security%20Analyst&location=County%20Dublin%2C%20Ireland&refresh=true)
 
 
 ## Irish Jobs
@@ -58,3 +59,7 @@
 
 * [Security Engineer (-3)](https://ie.indeed.com/jobs?q=security+engineer&l=Dublin%2C+County+Dublin&sc=0bf%3Aexrec%28%29%2Ckf%3Aattr%28HFDVW%29%3B&fromage=3&vjk=9798772b47cc98aa)
 * [Cyber Security (-3)](https://ie.indeed.com/jobs?q=cyber+security&l=Dublin%2C+County+Dublin&fromage=3&vjk=3d7581885351a9ec)
+
+## The Panel
+
+* [Security](https://thepanel.com/job-search/?keyword=Security)
