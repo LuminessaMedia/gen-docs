@@ -27,7 +27,7 @@
 
 * [Security](https://www.irishjobs.ie/ShowResults.aspx?Keywords=security&autosuggestEndpoint=/autosuggest&Location=102&Category=3&Recruiter=Company&btnSubmit=Search&PerPage=100&SortBy=MostRecent)
 * [Cyber](https://www.irishjobs.ie/ShowResults.aspx?Keywords=Cyber&autosuggestEndpoint=/autosuggest&Location=102&Category=3&Recruiter=Company&btnSubmit=Search&SortBy=MostRecent)
-* [Cybersecurity](https://www.jobs.ie/Jobs.aspx?hd_searchbutton=true&Keywords=Cybersecurity&Regions=0&Categories=4&job-search=true)
+* [Cybersecurity](https://www.irishjobs.ie/ShowResults.aspx?Keywords=Cybersecurity&autosuggestEndpoint=%2Fautosuggest&Location=102&Category=&Recruiter=Company&btnSubmit=Search)
 * [Information Security Analyst](https://www.irishjobs.ie/ShowResults.aspx?Keywords=Information+Security&autosuggestEndpoint=%2Fautosuggest&Location=102&Category=3&Recruiter=Company&btnSubmit=Search)
 * [Information Security](https://www.irishjobs.ie/ShowResults.aspx?Keywords=Information%20Security&autosuggestEndpoint=/autosuggest&Location=102&Category=3&Recruiter=Company&btnSubmit=Search&SortBy=MostRecent)
 
